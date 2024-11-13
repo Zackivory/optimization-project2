@@ -1,0 +1,46 @@
+,country,airport_name,airport_code,latitude,longitude,latitude_deg,longitude_deg
+0,USA,John F. Kennedy International Airport,JFK,40.639751°N,73.778925°W,40.639751,-73.778925
+1,USA,Los Angeles International Airport,LAX,33.942536°N,118.408075°W,33.942536,-118.408075
+2,Côte d'Ivoire,Félix Houphouët Boigny International Airport,ABJ,5.261417°N,3.925778°W,5.261417,-3.925778
+3,Vietnam,Tan Son Nhat International Airport,SGN,10.818797°N,106.651856°E,10.818797,106.651856
+4,Nigeria,Murtala Muhammed International Airport,LOS,6.577369°N,3.321156°E,6.577369,3.321156
+5,Zambia,Kenneth Kaunda International Airport,LUN,15.330817°S,28.452628°E,15.330817,28.452628
+6,Tanzania,Julius Nyerere International Airport,DAR,6.878819°S,39.202625°E,6.878819,39.202625
+7,Rwanda,Kigali International Airport,KGL,1.9685°S,30.1395°E,1.9685,30.1395
+8,Haiti,Toussaint Louverture International Airport,PAP,18.579444°N,72.2925°W,18.579444,-72.2925
+9,Zimbabwe,Robert Gabriel Mugabe International Airport,HRE,17.931806°S,31.092847°E,17.931806,31.092847
+10,Ethiopia,Bole International Airport,ADD,8.977889°N,38.799278°E,8.977889,38.799278
+11,South Africa,OR Tambo International Airport,JNB,26.1391667°S,28.2460556°E,26.1391667,28.2460556
+12,Guyana,Cheddi Jagan International Airport,GEO,6.498553°N,58.254119°W,6.498553,-58.254119
+13,Namibia,Hosea Kutako International Airport,WDH,22.486667°S,17.4625°E,22.486667,17.4625
+14,Botswana,Sir Seretse Khama International Airport,GBE,24.555225°S,25.918208°E,24.555225,25.918208
+15,Mozambique,Maputo International Airport,MPM,25.920833°S,32.572222°E,25.920833,32.572222
+16,Kenya,Jomo Kenyatta International Airport,NBO,1.319167°S,36.9275°E,1.319167,36.9275
+17,Kazakhstan,Almaty International Airport,ALA,43.352072°N,77.040508°E,43.352072,77.040508
+18,Uganda,Entebbe International Airport,EBB,0.042386°N,32.443503°E,0.042386,32.443503
+19,Kyrgyzstan,Manas International Airport,FRU,43.061306°N,74.477556°E,43.061306,74.477556
+20,Senegal,Blaise Diagne International Airport,DSS,14.67°N,17.07°W,14.67,-17.07
+21,Benin,Cotonou Cadjehoun Airport,COO,6.357228°N,2.384353°E,6.357228,2.384353
+22,Lesotho,Moshoeshoe I International Airport,MSU,29.462256°S,27.552503°E,29.462256,27.552503
+23,Pakistan,Benazir Bhutto International Airport,ISB,33.616653°N,73.099233°E,33.616653,73.099233
+24,Swaziland,King Mswati III International Airport,SHO,26.348178°S,31.716014°E,26.348178,31.716014
+25,Ghana,Kotoka International Airport,ACC,5.605186°N,0.166786°W,5.605186,-0.166786
+26,Angola,Quatro de Fevereiro Airport,LAD,8.858375°S,13.231178°E,8.858375,13.231178
+27,Lebanon,Beirut Rafic Hariri International Airport,BEY,33.820931°N,35.488389°E,33.820931,35.488389
+28,Sierra Leone,Lungi International Airport,FNA,8.616444°N,13.195489°W,8.616444,-13.195489
+29,Cameroon,Douala International Airport,DLA,4.006081°N,9.719481°E,4.006081,9.719481
+30,South Sudan,Juba International Airport,JUB,4.872006°N,31.601117°E,4.872006,31.601117
+31,Burundi,Bujumbura International Airport,BJM,3.324019°S,29.318519°E,3.324019,29.318519
+32,Dominican Republic,La Isabela International Airport,JBQ,18.5725°N,69.9856°W,18.5725,-69.9856
+33,Malawi,Kamuzu International Airport,LLW,13.7894°S,33.7804°E,13.7894,33.7804
+34,"Congo, DRC",N’djili International Airport,FIH,4.385750°S,15.4445694°E,4.38575,15.4445694
+35,Sudan,Khartoum International Airport,KRT,15.589497°N,32.553161°E,15.589497,32.553161
+36,Mali,Bamako-Sénou International Airport,BKO,12.533544°N,7.949964°W,12.533544,-7.949964
+37,Guatemala,La Aurora International Airport,GUA,14.583272°N,90.527475°W,14.583272,-90.527475
+38,Togo,Gnassingbé Eyadéma International Airport,LFW,6.165611°N,1.254511°E,6.165611,1.254511
+39,Afghanistan,Hamid Karzai International Airport,KBL,34.565853°N,69.212328°E,34.565853,69.212328
+40,Liberia,Roberts International Airport,ROB,6.233789°N,10.362622°W,6.233789,-10.362622
+41,Burkina Faso,Ouagadougou Airport,OUA,12.353194°N,1.512417°W,12.353194,-1.512417
+42,Guinea,Conakry International Airport,CKY,9.576889°N,13.611961°W,9.576889,-13.611961
+43,Libya,Tripoli International Airport,TIP,32.663861°N,13.159011°E,32.663861,13.159011
+44,Belize,Philip S. W. Goldson International Airport,BZE,17.539144°N,88.308203°W,17.539144,-88.308203
